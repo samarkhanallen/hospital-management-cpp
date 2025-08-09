@@ -1,0 +1,5 @@
+101|Aarav Sharma|20|Male|9876543210
+102|Kiara Mehta|19|Female|9988776655
+103|Vihaan Iyer|22|Male|9123456780
+104|Anaya Kapoor|21|Female|9001122334
+105|Advait Singh|23|Male|9765432109

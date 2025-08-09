@@ -1,0 +1,3 @@
+101|Consultation|500
+102|Skin Treatment|1500
+104|Child Vaccination|800
